@@ -31,7 +31,7 @@ This makes the program easier to understand, maintain, and expand.
 Everything in one script | Code is split into classes (CoffeeMaker, Menu, MoneyMachine, etc.) |
 Used functions and dictionaries | Each class has **its own methods and data** |
 Harder to scale or add features | Easy to add new features (like new drinks or a display panel) |
-Resources & logic mixed together | Responsibilities separated — cleaner structure |
+Resources & logic mixed together | Responsibilities separated creating a cleaner structure |
 
 
 
